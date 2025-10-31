@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Amazonas" },
+      "geometry": { "type": "Point", "coordinates": [-70.0, -3.5] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Antioquia" },
+      "geometry": { "type": "Point", "coordinates": [-75.6, 6.3] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Arauca" },
+      "geometry": { "type": "Point", "coordinates": [-70.8, 6.6] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Atlántico" },
+      "geometry": { "type": "Point", "coordinates": [-74.9, 10.8] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Bolívar" },
+      "geometry": { "type": "Point", "coordinates": [-74.2, 9.2] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Boyacá" },
+      "geometry": { "type": "Point", "coordinates": [-73.3, 5.5] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Caldas" },
+      "geometry": { "type": "Point", "coordinates": [-75.5, 5.3] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Caquetá" },
+      "geometry": { "type": "Point", "coordinates": [-74.1, 0.6] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Casanare" },
+      "geometry": { "type": "Point", "coordinates": [-72.4, 5.3] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Cauca" },
+      "geometry": { "type": "Point", "coordinates": [-76.6, 2.6] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Cesar" },
+      "geometry": { "type": "Point", "coordinates": [-73.5, 10.3] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Chocó" },
+      "geometry": { "type": "Point", "coordinates": [-77.0, 5.7] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Córdoba" },
+      "geometry": { "type": "Point", "coordinates": [-75.8, 8.5] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Cundinamarca" },
+      "geometry": { "type": "Point", "coordinates": [-74.2, 5.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Guainía" },
+      "geometry": { "type": "Point", "coordinates": [-68.5, 2.6] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Guaviare" },
+      "geometry": { "type": "Point", "coordinates": [-72.7, 2.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Huila" },
+      "geometry": { "type": "Point", "coordinates": [-75.3, 2.9] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "La Guajira" },
+      "geometry": { "type": "Point", "coordinates": [-72.5, 11.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Magdalena" },
+      "geometry": { "type": "Point", "coordinates": [-74.1, 10.1] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Meta" },
+      "geometry": { "type": "Point", "coordinates": [-73.6, 3.6] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Nariño" },
+      "geometry": { "type": "Point", "coordinates": [-77.3, 1.3] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Norte de Santander" },
+      "geometry": { "type": "Point", "coordinates": [-72.8, 8.1] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Putumayo" },
+      "geometry": { "type": "Point", "coordinates": [-76.0, 0.4] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Quindío" },
+      "geometry": { "type": "Point", "coordinates": [-75.7, 4.5] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Risaralda" },
+      "geometry": { "type": "Point", "coordinates": [-75.9, 5.1] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "San Andrés y Providencia" },
+      "geometry": { "type": "Point", "coordinates": [-81.7, 12.5] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Santander" },
+      "geometry": { "type": "Point", "coordinates": [-73.1, 6.7] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Sucre" },
+      "geometry": { "type": "Point", "coordinates": [-75.4, 9.1] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Tolima" },
+      "geometry": { "type": "Point", "coordinates": [-75.2, 4.1] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Valle del Cauca" },
+      "geometry": { "type": "Point", "coordinates": [-76.5, 3.5] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Vaupés" },
+      "geometry": { "type": "Point", "coordinates": [-70.8, 1.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NOMBRE_DPT": "Vichada" },
+      "geometry": { "type": "Point", "coordinates": [-69.6, 5.4] }
+    }
+  ]
+}

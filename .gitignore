@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos (no subir tu venv)
+venv/
+.env/
+
+# VS Code
+.vscode/
+
+# Cachés y temporales
+*.log
+*.tmp
+
+# Sistemas (Windows / macOS)
+Thumbs.db
+.DS_Store
