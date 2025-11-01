@@ -4,4 +4,6 @@ pandas
 geopandas
 openpyxl
 gunicorn
+dash==2.14.2
+gunicorn==21.2.0
 
