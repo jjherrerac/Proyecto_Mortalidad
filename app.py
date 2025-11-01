@@ -15,6 +15,8 @@ from pathlib import Path
 # =========================
 # RUTAS Y LECTURAS
 # =========================
+app = Dash(__name__, suppress_callback_exceptions=True)
+server = app.server
 BASE = Path(__file__).parent
 FILE_GEO = BASE / "data" / "departamentos.geojson"
 
@@ -236,7 +238,11 @@ def actualizar_mapa_y_card(depto):
 # MAIN
 # =========================
 if __name__ == "__main__":
-    app.run(debug=True)
+    import os
+    port = int(os.environ.get("PORT", 8050))  # Render usa PORT automáticamente
+    app.run_server(host="0.0.0.0", port=port, debug=False)
+
+
 
 
 
