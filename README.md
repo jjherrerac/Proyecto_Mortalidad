@@ -37,7 +37,7 @@ De forma específica, se busca:
 
 ## 🏗 Estructura del proyecto
 
-Proyecto_Mortalidad/
+´´´Proyecto_Mortalidad/
 │
 ├── app.py                  # Código principal de la aplicación Dash
 ├── requirements.txt        # Librerías y versiones necesarias
@@ -53,7 +53,7 @@ Proyecto_Mortalidad/
 │   ├── distribucion_edad.png
 │   ├── tendencia_mensual.png
 │
-└── README.md               # Documento explicativo del proyecto
+└── README.md               # Documento explicativo del proyecto´´´
 
 **Visualizaciones y explicaciones de los resultados**
 
