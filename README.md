@@ -36,8 +36,8 @@ De forma específica, se busca:
 ---
 
 ## 🏗 Estructura del proyecto
-
-´´´Proyecto_Mortalidad/
+```
+Proyecto_Mortalidad/
 │
 ├── app.py                  # Código principal de la aplicación Dash
 ├── requirements.txt        # Librerías y versiones necesarias
@@ -53,7 +53,8 @@ De forma específica, se busca:
 │   ├── distribucion_edad.png
 │   ├── tendencia_mensual.png
 │
-└── README.md               # Documento explicativo del proyecto´´´
+└── README.md               # Documento explicativo del proyecto
+```
 
 **Visualizaciones y explicaciones de los resultados**
 
@@ -101,4 +102,5 @@ Gunicorn: Servidor de aplicaciones WSGI para producción.
 Render: Plataforma de despliegue en la nube (PaaS).
 
 GitHub: Control de versiones y repositorio remoto del proyecto.
+
 
