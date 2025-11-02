@@ -56,7 +56,7 @@ Proyecto_Mortalidad/
 └── README.md               # Documento explicativo del proyecto
 ```
 
-**Visualizaciones y explicaciones de los resultados**
+## Visualizaciones y explicaciones de los resultados
 
 1️⃣ Visión general
 
@@ -85,7 +85,7 @@ Gráfico de líneas que representa la variación de muertes a lo largo del año,
 
 
 
-**Software y herramientas utilizadas**
+## Software y herramientas utilizadas
 
 Python: Lenguaje principal de programación.
 
