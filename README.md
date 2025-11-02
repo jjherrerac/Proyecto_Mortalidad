@@ -87,20 +87,21 @@ Gráfico de líneas que representa la variación de muertes a lo largo del año,
 
 ## Software y herramientas utilizadas
 
-Python: Lenguaje principal de programación.
+1️⃣ Python: Lenguaje principal de programación.
 
-Dash (Plotly): Framework para construir interfaces analíticas interactivas.
+2️⃣ Dash (Plotly): Framework para construir interfaces analíticas interactivas.
 
-Pandas: Manejo y transformación de datos tabulares.
+3️⃣ Pandas: Manejo y transformación de datos tabulares.
 
-Plotly Express: Generación de gráficos interactivos.
+4️⃣ Plotly Express: Generación de gráficos interactivos.
 
-OpenPyXL: Lectura de datos en formato Excel.
+5️⃣ OpenPyXL: Lectura de datos en formato Excel.
 
-Gunicorn: Servidor de aplicaciones WSGI para producción.
+6️⃣ Gunicorn: Servidor de aplicaciones WSGI para producción.
 
-Render: Plataforma de despliegue en la nube (PaaS).
+7️⃣ Render: Plataforma de despliegue en la nube (PaaS).
 
-GitHub: Control de versiones y repositorio remoto del proyecto.
+8️⃣ GitHub: Control de versiones y repositorio remoto del proyecto.
+
 
 
