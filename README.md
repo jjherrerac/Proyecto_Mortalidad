@@ -9,8 +9,8 @@
 ## 🌐 URL de la aplicación desplegada
 🔗 [https://proyecto-mortalidad.onrender.com](https://proyecto-mortalidad.onrender.com)
 
-## 💾 URL del repositorio en GitHub
-🔗 [https://github.com/jjherrearc/Proyecto_Mortalidad](https://github.com/jjherrearc/Proyecto_Mortalidad)
+## 💾🔗 **Repositorio en GitHub:**  
+[https://github.com/jjherrerac/Proyecto_Mortalidad](https://github.com/jjherrerac/Proyecto_Mortalidad)
 
 ---
 
