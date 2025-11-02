@@ -55,3 +55,50 @@ Proyecto_Mortalidad/
 │
 └── README.md               # Documento explicativo del proyecto
 
+**Visualizaciones y explicaciones de los resultados**
+
+1️⃣ Visión general
+
+Muestra un mapa interactivo de los departamentos de Colombia con el número total de muertes y gráficos complementarios que resumen la información global.
+
+2️⃣ Municipios (gráfico de torta)
+
+Representa la participación porcentual de los municipios en el total de muertes por departamento.
+
+3️⃣ Causas (Top 10)
+
+Presenta una tabla interactiva con las 10 principales causas de muerte, ordenadas de mayor a menor número de casos.
+Cada fila incluye el código DANE, el nombre de la causa y el total de fallecimientos.
+
+4️⃣ Muertes por sexo
+
+Gráfico de barras apiladas que compara el número de muertes en hombres y mujeres.
+
+5️⃣ Distribución por edad (histograma)
+
+Muestra la cantidad de muertes según los grupos etarios definidos por el DANE (neonatal, infantil, niñez, juventud, adultez, vejez, longevidad, etc.).
+
+6️⃣ Tendencia mensual (líneas)
+
+Gráfico de líneas que representa la variación de muertes a lo largo del año, permitiendo observar picos o descensos estacionales.
+
+
+
+**Software y herramientas utilizadas**
+
+Python: Lenguaje principal de programación.
+
+Dash (Plotly): Framework para construir interfaces analíticas interactivas.
+
+Pandas: Manejo y transformación de datos tabulares.
+
+Plotly Express: Generación de gráficos interactivos.
+
+OpenPyXL: Lectura de datos en formato Excel.
+
+Gunicorn: Servidor de aplicaciones WSGI para producción.
+
+Render: Plataforma de despliegue en la nube (PaaS).
+
+GitHub: Control de versiones y repositorio remoto del proyecto.
+
